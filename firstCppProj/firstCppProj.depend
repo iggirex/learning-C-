@@ -1,4 +1,7 @@
 # depslib dependency file v1.0
-1508824186 source:c:\users\ig$ pc\desktop\c++\firstcppproj\main.cpp
+1508825373 source:c:\users\ig$ pc\desktop\c++\firstcppproj\main.cpp
+	<iostream>
+
+1508825373 source:c:\users\ig$ pc\desktop\c++\firstcppproj\oldstuff.cpp
 	<iostream>
 
