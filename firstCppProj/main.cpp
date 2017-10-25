@@ -4,6 +4,9 @@ using namespace std;
 
 class IggisClass{
     public:
+        IggisClass(string z){
+            setName(z);
+        };
         void setName(string x){
             name = x;
         }
@@ -16,9 +19,11 @@ class IggisClass{
 
 int main()
 {
-    IggisClass iggio;
-    iggio.setName("Sir Ig$ter");
+    IggisClass iggio("Lucky Iggi\n");
     cout << iggio.getName();
+
+    IggisClass iggiClone("You are me");
+    cout << iggiClone.getName();
     return 0;
 }
 
