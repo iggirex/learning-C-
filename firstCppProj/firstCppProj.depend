@@ -1,7 +1,14 @@
 # depslib dependency file v1.0
-1508825373 source:c:\users\ig$ pc\desktop\c++\firstcppproj\main.cpp
+1508905498 source:c:\users\ig$ pc\desktop\c++\firstcppproj\main.cpp
 	<iostream>
+	"Burrito.h"
 
 1508825373 source:c:\users\ig$ pc\desktop\c++\firstcppproj\oldstuff.cpp
 	<iostream>
+
+1508905357 source:c:\users\ig$ pc\desktop\c++\firstcppproj\burrito.cpp
+	"Burrito.h"
+	<iostream>
+
+1508905313 c:\users\ig$ pc\desktop\c++\firstcppproj\burrito.h
 
